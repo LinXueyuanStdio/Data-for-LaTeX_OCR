@@ -2,6 +2,8 @@
 
 本数据仓库是专为 [LaTeX_OCR](https://github.com/LinXueyuanStdio/LaTeX_OCR) 及 [LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR) 制作的数据，来源于 `https://zenodo.org/record/56198#.V2p0KTXT6eA` 以及 `https://www.isical.ac.in/~crohme/` 以及我们自己构建。
 
+数据已经同步到 huggingface，欢迎使用！https://huggingface.co/datasets/linxy/LaTeX_OCR
+
 ## 数据集
 
 本仓库暂时有 4 个数据集
